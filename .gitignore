@@ -1,0 +1,7 @@
+﻿CodeFirstAPI-Test/.vs/CodeFirstAPI-Test/v17/.suo
+bin/
+logs/
+*.log
+obj/
+*.exe
+*.dll
